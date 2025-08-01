@@ -1,4 +1,4 @@
-# 🤖 Agentic RAG Practical Example
+# 🤖 Agentic RAG System
 
 A comprehensive **Agentic RAG (Retrieval-Augmented Generation)** system built with [CrewAI](https://crewai.com) that demonstrates multi-agent collaboration for business intelligence and document analysis.
 
