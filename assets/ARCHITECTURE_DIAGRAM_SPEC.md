@@ -82,33 +82,4 @@ Based on the actual code implementation, here's what the new architecture diagra
 5. **Manager** → Code Execution Agent (visualization generation)
 6. **Final Output** → Business report + visualization code
 
-### 🎨 **Visual Elements for Diagram**
 
-**Colors:**
-- Manager Agent: Blue
-- Document RAG Agent: Green  
-- Web Agent: Orange
-- Code Execution Agent: Purple
-- ChromaDB: Dark Green
-- External APIs: Red
-- Output Files: Yellow
-
-**Connections:**
-- Solid arrows for task delegation
-- Dashed arrows for data flow
-- Double arrows for bidirectional communication
-
-**Icons:**
-- 🤖 for agents
-- 🗄️ for ChromaDB
-- 🌐 for web APIs
-- 📊 for outputs
-- ⚙️ for configuration files
-
-This specification reflects the ACTUAL implementation with:
-- Hierarchical process with manager coordination
-- ChromaDB integration with custom tool
-- Web search capabilities
-- Business intelligence focus
-- Configurable LLM providers
-- Persistent data storage
