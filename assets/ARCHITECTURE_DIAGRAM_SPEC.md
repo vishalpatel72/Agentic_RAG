@@ -2,7 +2,6 @@
 
 ## Current Implementation Architecture
 
-Based on the actual code implementation, here's what the new architecture diagram should show:
 
 ### 🎯 **Manager Agent (Hierarchical Coordinator)**
 - **LLM**: Groq/Gemini (configurable)
